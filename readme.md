@@ -1,1 +1,10 @@
-<img src="https://camo.githubusercontent.com/e445830bcdfc0816246876dd7e13e554b5be2db95d060c8656bf09b45ab42658/68747470733a2f2f74663263756e74737570706f72742e303030776562686f73746170702e636f6d2f552f696d616765">
+## About
+Hello, this is the offical cheater Blue snoop. This github account was created for 2 reasons. 
+  1. It was created to store a localized version of my website [tf2cuntsupport](https://tf2cuntsupport.net) so if it gets banned its saved.
+  2. Its also for whatever projects I feel like wanting to create, however these projects may be halted for extensive periods of time.
+
+<br>
+
+[![stats_for_snoop](https://github-readme-stats.vercel.app/api?username=bluesnoopt&bg_color=14141b&title_color=555dee&icon_color=3459E6&text_color=bcbedc&custom_title=My%20stats&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=0&text_bold=false)](https://tf2cuntsupport.net)
+
+<img src="https://tf2cuntsupport.net/U/image" width="467rem">
